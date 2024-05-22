@@ -1,3 +1,22 @@
 body {
+nav {
+  list-style-type: none;
+  background-color: lightblue;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  color: black;
+  padding: 8px;
+  text-align: center;
+}
 
+li {
+  display: inline;
+  padding: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: #023E8A
+}
 }
